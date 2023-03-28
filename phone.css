@@ -1,0 +1,34 @@
+/*home*/
+.home{
+    height: 600px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/*about*/
+#pic img{
+    width: 150px;
+    height: 200px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/*memories*/
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/*words*/
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
